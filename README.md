@@ -11,7 +11,7 @@ Reporting and Project Management: Microsoft Office Suite, Jira, Confluence.
 Development and Testing Tools: Tools for product development and quality assurance.
 Modeling and Forecasting: Frameworks for data modeling and predictive analytics.  show picture after each description. 
 
-- 📫 How to reach me by email katborotho@gmail.com
+- 📫 How to reach me by email: katborotho@gmail.com
 
 <!---
 Borotho/Borotho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
