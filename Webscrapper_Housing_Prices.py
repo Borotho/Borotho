@@ -24,7 +24,7 @@ def divide_chunks(l, n):
     for i in range(0, len(l), n):
         yield l[i:i + n]
 
-with pd.ExcelWriter('output.xlsx', engine='xlsxwriter') as writer:
+with pd.ExcelWriter('Housing_Prices_Cape Town_Output.xlsx', engine='xlsxwriter') as writer:
     for id in ids:
         # get the specified element
         elements = browser.find_elements(By.XPATH, f'//*[@id="{id}"]//table//tr')
